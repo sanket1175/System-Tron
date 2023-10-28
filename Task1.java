@@ -4,7 +4,7 @@ Task : Make a Guess a Number With the help of JAVA
 
 import java.util.*; 
 import java.io.*;
-class Task01{ 
+class Task1{ 
 	public static void main(String args[]) throws IOException 
 	{
 	    BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
