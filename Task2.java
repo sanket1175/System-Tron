@@ -1,3 +1,8 @@
+/*
+Task 2:
+
+Task : Make a  Rock Paper Scissor  game   With the help of JAVA 
+  */
 import java.io.*;
 import java.util.*;
 
